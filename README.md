@@ -23,8 +23,8 @@ Kövesd az alábbi lépéseket a projekt telepítéséhez és futtatásához.
 ### 1. Klónozd a projektet
 
 ```bash
-git clone https://github.com/TheHydes/idonyilvantarto.git
-cd idonyilvantarto
+git clone https://github.com/TheHydes/TimeTrackingSystem.git
+cd TimeTrackingSystem
 ```
 
 ### 2. Függőségek telepítése
@@ -88,8 +88,8 @@ Follow the steps below to install and run the project.
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/TheHydes/idonyilvantarto.git
-cd idonyilvantarto
+git clone https://github.com/TheHydes/TimeTrackingSystem.git
+cd TimeTrackingSystem
 ```
 
 ### 2. Install Dependencies
