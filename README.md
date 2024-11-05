@@ -76,7 +76,7 @@ App running at:
 
 This project is a simple time tracking application that allows users to monitor their work hours and categorize them by tags. The application uses frontend technologies and is built with the Vue.js framework.
 
-## Funkciók
+## Features
 
 - Create, edit, and delete work time entries
 - View work time entries in daily, weekly, or monthly formats
