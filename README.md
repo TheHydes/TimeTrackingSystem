@@ -13,8 +13,15 @@ Ez a projekt egy egyszerű időnyilvántartó alkalmazás, amely lehetővé tesz
 
 ## Technológiai követelmények
 
-- Node.js (ajánlott verzió: 14 vagy újabb)
+- Node.js (ajánlott verzió: 14 vagy újabb) Innen töltsd le a Node.js-t: https://nodejs.org/en
 - npm
+- Vue CLI (Vue Parancssori Felület): Ez a Vue.js projektek kezelésére szolgál.
+
+### Ha még nem telepítetted a Vue CLI-t, ezt az alábbi parancs futtatásával megteheted:
+
+```bash
+npm install -g @vue/cli
+```
 
 ## Telepítési és futtatási útmutató
 
@@ -78,8 +85,15 @@ This project is a simple time tracking application that allows users to monitor 
 
 ## Technical Requirements
 
-- Node.js (recommended version: 14 or higher)
+- Node.js (recommended version: 14 or higher) Download Node.js here: https://nodejs.org/en
 - npm
+- Vue CLI (Vue Command Line Interface): This is used for managing Vue.js projects.
+
+### If you don't have the Vue CLI installed, you can do so by running the following command:
+
+```bash
+npm install -g @vue/cli
+```
 
 ## Installation and Setup Guide
 
